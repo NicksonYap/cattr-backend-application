@@ -10,3 +10,9 @@
 	path = Modules/Reports
 	url = https://git.amazingcat.net/AmazingTime/core/modules/reports.git
 	branch = master
+[submodule "Modules/cattr-backend-gitlab"]
+	path = Modules/cattr-backend-gitlab
+	url = https://dev.azure.com/SeamlessX/SX%20TimeLogger/_git/cattr-backend-gitlab
+[submodule "Modules/cattr-backend-redmine"]
+	path = Modules/cattr-backend-redmine
+	url = https://dev.azure.com/SeamlessX/SX%20TimeLogger/_git/cattr-backend-redmine
